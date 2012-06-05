@@ -1,0 +1,6 @@
+Bulk upload files for ingest. All hardcoded for basic image solution pack and jpegs currently.
+
+Usage:
+- install plupload module
+- install plupload library per directions in plupload module
+- install module

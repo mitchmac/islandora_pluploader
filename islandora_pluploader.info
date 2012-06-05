@@ -1,0 +1,7 @@
+name = Islandora Pluploader
+description = Bulk upload files for ingest.
+dependencies[] = islandora
+dependencies[] = plupload
+package = Islandora Dependencies
+version = 7.x-dev
+core = 7.x
